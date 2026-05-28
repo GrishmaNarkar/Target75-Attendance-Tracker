@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Light Theme -->
+    <color name="light_background">#EAF4FF</color>
+    <color name="light_card">#FFFFFF</color>
+
+    <!-- Dark Theme -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_card">#1E1E1E</color>
+
+    <!-- Accent -->
+    <color name="primary_accent">#00C2FF</color>
+
+    <!-- Text -->
+    <color name="main_text_light">#1E1E1E</color>
+    <color name="main_text_dark">#FFFFFF</color>
+
+    <color name="secondary_text">#A0A0A0</color>
+
+    <!-- Status -->
+    <color name="success_green">#4CAF50</color>
+    <color name="danger_red">#FF5252</color>
+
+    <!-- Progress -->
+    <color name="progress_track">#2C2C2C</color>
+
+</resources>
