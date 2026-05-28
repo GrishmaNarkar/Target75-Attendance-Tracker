@@ -22,7 +22,7 @@
 
     <item
         android:id="@+id/nav_language"
-        android:icon="@android:drawable/ic_menu_sort_alphabetically"
+        android:icon="@drawable/ic_language"
         android:title="Language" />
 
     <item
